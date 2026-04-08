@@ -1,0 +1,18 @@
+{
+  "name": "@paidsync/mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for managing Google Ads, Meta Ads, and LinkedIn Ads through AI assistants. 200+ tools with full read and write access.",
+  "main": "index.js",
+  "mcpName": "io.github.traffiycom-ui/paidsync",
+  "keywords": ["mcp", "google-ads", "meta-ads", "linkedin-ads", "ppc", "advertising", "claude", "chatgpt", "gemini", "ai"],
+  "author": "Ahmed Ashraf",
+  "license": "MIT",
+  "homepage": "https://paidsync.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/traffiycom-ui/paidsync-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/traffiycom-ui/paidsync-mcp-server/issues"
+  }
+}
