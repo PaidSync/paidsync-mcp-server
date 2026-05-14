@@ -1,10 +1,10 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.traffiycom-ui/paidsync",
+  "name": "io.github.paidsync/paidsync",
   "title": "PaidSync.ai",
   "description": "Manage Google Ads, Meta Ads, and LinkedIn Ads through AI. 200+ tools, full read and write.",
   "repository": {
-    "url": "https://github.com/traffiycom-ui/paidsync-mcp-server",
+    "url": "https://github.com/PaidSync/paidsync-mcp-server",
     "source": "github"
   },
   "version": "1.0.0",
